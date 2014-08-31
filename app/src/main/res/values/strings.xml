@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Misc-->
+    <string name="app_name">LostDoge</string>
+    <string name="button_text">HOLA</string>
+    <string name="pauli">PAULI</string>
+    <string name="reset_button">CHAO</string>
+    <!--Activity titles-->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_lost">LostActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <!--Dialog related-->
+    <string name="dialog_message_no_user_pass_error">Por favor ingrese su nombre de usuario y contraseña.</string>
+    <string name="dialog_title_error">¡Error!</string>
+    <string name="dialog_message_log_in_error">Hubo un problema al conectar con el servidor.</string>
+    <string name="dialog_message_no_user_pass_email_error">Por favor ingrese su nombre de usuario, contraseña y e-mail.</string>
+    <string name="dialog_message_upload_error">Error cargando el archivo, por favor intente nuevamente.</string>
+    <!--Menu Actions-->
+    <string name="action_add">Agregar</string>
+    <string name="action_ok">OK</string>
+    <string name="action_sign_out">Cerrar Sesión</string>
+    <string name="action_settings">Settings</string>
+    <!--TextView-->
+    <string name="text_no_account">¿No tienes una cuenta? ¡Regístrate!</string>
+    <string name="text_pet_type">Tipo de mascota:</string>
+    <string name="text_pet_status">Estado de la mascota</string>
+    <!--Toast-->
+    <string name="toast_select_place">Selecciona el lugar donde lo perdiste o encontraste y luego clickea OK.</string>
+    <string name="toast_get_position_error">Hubo un error al obtener la posición. Intente nuevamente.</string>
+    <string name="toast_general_error">¡Error!</string>
+    <string name="toast_missing_fields">Completa todos los campos antes de clickear OK.</string>
+    <string name="toast_marker_sent">Enviado!</string>
+    <!--Button texts-->
+    <string name="button_load_picture">Cargar Foto</string>
+    <string name="button_sign_in">Ingresar</string>
+    <string name="button_sign_up">Registrarse</string>
+    <string name="button_cancel">Cancelar</string>
+    <!--ImageView descriptions-->
+    <string name="desc_preview">Vista previa</string>
+    <!--EditText hints-->
+    <string name="hint_pet_description">Descripción</string>
+    <string name="hint_pet_name">Nombre de la mascota</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_password">Contraseña</string>
+    <!--String Arrays-->
+    <string-array name="array_pet_status">
+        <item>Perdido</item>
+        <item>Encontrado</item>
+    </string-array>
+    <string-array name="array_pet_type">
+        <item>Perro</item>
+        <item>Gato</item>
+    </string-array>
+</resources>
